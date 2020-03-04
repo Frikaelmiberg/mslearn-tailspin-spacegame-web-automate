@@ -14,7 +14,7 @@
         "adminPassword": {
             "reference": {
               "keyVault": {
-                "id": ""
+                "id": "/subscriptions/1d01321b-1bd0-4ef4-b38d-f92d074723fa/resourceGroups/tailspin-spacegame-web-rg/providers/Microsoft.KeyVault/vaults/tailspin-vault-19518"
               },
               "secretName": "adminPassword"
             }
